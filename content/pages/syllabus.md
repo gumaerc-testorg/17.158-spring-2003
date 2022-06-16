@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 1 session / week, 3 hours / session
 Course Description
 ------------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/17_158))
+Syllabus ({{% resource_link a069270d-fa3b-cf5d-6153-f6edb3cfd633 "PDF" %}})
 
 Examines role of European states in postwar period of rapid economic growth and current crisis. Includes analysis of different state traditions ("etatist," liberal, authoritarian); government's role in decline of some economies and rise of others; why and where Keynesianism, indicative planning, and state enterprises were introduced; alternative conceptions of contemporary economic problems (new international division of labor? too few producers? oil shock?); and of policies to deal with them (industrial policy? monetarism? protectionism?).
 
